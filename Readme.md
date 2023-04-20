@@ -22,3 +22,5 @@ Script akan menerjemahkan cerita atau deskripsi ke dalam bahasa Inggris mengguna
 Setelah itu, script akan menghasilkan gambar-gambar yang merepresentasikan cerita atau deskripsi tersebut menggunakan layanan OpenAI API.
 
 Terakhir, script akan menggabungkan gambar-gambar tersebut dan menghasilkan video dari gambar-gambar tersebut.
+
+Author Script ini dibuat oleh Ardan adhyaksa.
