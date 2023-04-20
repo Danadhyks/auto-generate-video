@@ -24,3 +24,5 @@ Setelah itu, script akan menghasilkan gambar-gambar yang merepresentasikan cerit
 Terakhir, script akan menggabungkan gambar-gambar tersebut dan menghasilkan video dari gambar-gambar tersebut.
 
 Author Script ini dibuat oleh Ardan adhyaksa.
+
+jika banyak yang pakai akan saya update script ini
