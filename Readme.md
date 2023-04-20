@@ -5,7 +5,7 @@ Persyaratan
 Python 3.x
 Paket opencv-python dan requests
 Cara Menggunakan
-Unduh paket opencv-python dan requests dengan menjalankan perintah pip install opencv-python requests di terminal atau command prompt.
+python agc.py
 
 Dapatkan API key untuk layanan OpenAI. Untuk script ini, Anda memerlukan API key untuk model text-davinci-002 dan image-alpha-001.
 
