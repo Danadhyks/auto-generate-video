@@ -70,8 +70,8 @@ def create_video_from_images(image_folder, video_name, fps=30):
     cv2.destroyAllWindows()
     print("Video created successfully")
 
-chatgpt_api_key = "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"
-dalle_api_key = "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"
+chatgpt_api_key = "input_your_api_key_here"
+dalle_api_key = "input_your_api_key_here"
 
 prompt = input("Masukkan cerita atau deskripsi: ")
 
