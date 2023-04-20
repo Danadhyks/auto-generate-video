@@ -2,9 +2,13 @@ Text-to-Image Generator
 Script ini menggunakan layanan OpenAI API untuk menghasilkan gambar dari sebuah cerita atau deskripsi yang dimasukkan oleh pengguna.
 
 Persyaratan
+
 Python 3.x
+
 Paket opencv-python dan requests
+
 Cara Menggunakan
+
 python agc.py
 
 Dapatkan API key untuk layanan OpenAI. Untuk script ini, Anda memerlukan API key untuk model text-davinci-002 dan image-alpha-001.
